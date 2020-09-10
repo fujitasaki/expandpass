@@ -1,13 +1,7 @@
-(
-  "Jean"
-  <
-    { "M" "m" } "arry" { "M" "m" } "e"
-  >
-)
-"123"
-[-s1 "0123456789"]
-{
-"!"
-"!!"
-}
-
+1855
+suica
+morishita masato
+forestunder 
+love
+Saki
+2412
